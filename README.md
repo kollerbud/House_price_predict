@@ -173,6 +173,8 @@ SaleType: Type of sale
 SaleCondition: Condition of sale
 
 
+Project Approach:
+
 
 
 
