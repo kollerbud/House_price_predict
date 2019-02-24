@@ -173,8 +173,19 @@ SaleType: Type of sale
 SaleCondition: Condition of sale
 
 
-Project Approach:
+Model Approach:
 
+1. Preliminary EDA analysis
+2. Descriptive and numeric data
+3. Identify categorical vs ordinal data
+4. Data wrangling, handle missing values
+5. Feature engineering, feature selection
+6. Model
+ a. Linear regression as baseline
+ b. random forest
+ c. Tree Boosting-XGB
+ 
+Pareto Principle: 80% of effort will be spent in step 1-5, while 20% in model.
 
 
 
