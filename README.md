@@ -179,11 +179,13 @@ Model Approach:
 2. Descriptive and numeric data
 3. Identify categorical vs ordinal data
 4. Data wrangling, handle missing values
+ 4-a. train data split into train/test set
 5. Feature engineering, feature selection
-6. Model
- a. Linear regression as baseline
- b. random forest
- c. Tree Boosting-XGB
+6. Model test on train/test set
+ 6-a. Linear regression as baseline
+ 6-b. random forest
+ 6-c. Tree Boosting-XGB
+7. Select best method and predict actual test data or use ensemble approach
  
 Pareto Principle: 80% of effort will be spent in step 1-5, while 20% in model.
 
